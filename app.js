@@ -4,7 +4,9 @@ console.log(
 );
 
 // Exercise 1
-
+const firstName;
+let lastName = Miller;
+var age = 32;
 // Exercise 2
 
 // Exercise 3
