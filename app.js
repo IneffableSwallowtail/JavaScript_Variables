@@ -12,3 +12,6 @@ firstName = 'A.J.';
 lastName = 'Miller'
 age = 32;
 // Exercise 3
+let language = 'JavaScript';
+let createdYear = 1995;
+let isCaseSensitive = true;
