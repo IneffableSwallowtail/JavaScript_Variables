@@ -5,8 +5,10 @@ console.log(
 
 // Exercise 1
 const firstName;
-let lastName = Miller;
+let lastName = 'A.J. Miller';
 var age = 32;
 // Exercise 2
-
+firstName = 'A.J.';
+lastName = 'Miller'
+age = 32;
 // Exercise 3
